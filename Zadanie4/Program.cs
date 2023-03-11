@@ -3,7 +3,7 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-Console.Clear();
+
 Console.Write("Введите 1 число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 2 число: ");
